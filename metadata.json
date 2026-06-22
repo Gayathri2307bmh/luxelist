@@ -1,0 +1,8 @@
+{
+  "name": "Shopping List - Smart Shopping & Budget App",
+  "description": "A clean, modern shopping list and budget tracking app with a smart Gemini AI assistant, spending analytics, and helpful shopping recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
