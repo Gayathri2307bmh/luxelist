@@ -1,20 +1,159 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🛍️ LuxeList
 
-# Run and deploy your AI Studio app
+LuxeList is a modern Shopping List & Budget Tracker application designed to help users organize purchases, manage budgets, track spending, and stay productive with a beautiful lavender-inspired interface.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/0a4507a6-17fc-483a-921a-29b76ac063ef
+### 🛒 Shopping List
 
-## Run Locally
+* Add, edit, and delete shopping items
+* Mark items as purchased
+* Organize purchases efficiently
 
-**Prerequisites:**  Node.js
+### 💜 Wishlist
 
+* Save items for future purchases
+* Move items between wishlist and shopping list
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 💰 Budget Tracking
+
+* Set and manage budgets
+* Track spending in real time
+* Monitor remaining budget
+
+### 📊 Spending Analytics
+
+* View spending insights
+* Analyze purchasing habits
+* Track savings over time
+
+### 🔔 Reminders
+
+* Create shopping reminders
+* Stay on top of important purchases
+
+### 🔥 Login Streaks
+
+* Track consecutive daily logins
+* View current and longest streaks
+* Encourage consistent usage
+
+### 📤 Share Lists
+
+* Share shopping lists through:
+
+  * WhatsApp
+  * Telegram
+  * Gmail
+  * SMS
+  * Copy Link
+  * Copy Text
+
+### 🔐 Authentication
+
+* User registration
+* Secure login
+* Password reset
+* Personalized user data
+
+### 📱 Responsive Design
+
+* Desktop optimized
+* Tablet optimized
+* Mobile optimized
+
+## 🎨 Design
+
+LuxeList features:
+
+* Lavender-inspired aesthetic
+* Floating lavender flower animations
+* Smooth transitions and micro-interactions
+* Clean and modern UI
+* Responsive navigation drawer
+
+## 🚀 Technologies Used
+
+* React
+* Vite
+* Firebase Authentication
+* Firestore Database
+* Netlify Hosting
+* CSS3
+* JavaScript
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/luxelist-app.git
+```
+
+Navigate to the project:
+
+```bash
+cd luxelist-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 🌐 Deployment
+
+This application can be deployed using:
+
+* Netlify
+* Vercel
+* Firebase Hosting
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+* Dashboard
+* Shopping List
+* Wishlist
+* Budget Tracker
+* Analytics
+* Mobile View
+
+## 🔮 Future Improvements
+
+* Dark Mode
+* Barcode Scanner
+* Expense Categories
+* AI Shopping Suggestions
+* Family Shared Lists
+* Cloud Synchronization
+* Push Notifications
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👩‍💻 Author
+
+Gayathri Bellamkonda
+
+Built with ❤️ using modern web technologies.
+
